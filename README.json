@@ -1,7 +1,842 @@
 {
-  "items": [],
+  "items": [
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Google CTF",
+          "description": "Source code of Google 2017, 2018 and 2019 CTF",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 131317137,
+            "language": "Python",
+            "last_commit": "2026-02-11T13:11:18Z",
+            "owner": "google",
+            "repo": "google-ctf",
+            "stars": 5012
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Windows / Linux Local Privilege Escalation Workshop",
+          "description": "Practice your Linux and Windows privilege escalation",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 215803606,
+            "language": "Batchfile",
+            "last_commit": "2022-10-09T04:34:28Z",
+            "owner": "sagishahar",
+            "repo": "lpeworkshop",
+            "stars": 2124
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "HTB Writeups",
+          "description": "The most comprehensive Hack The Box writeup collection with 500+ machines, 400+ challenges, ProLabs, Sherlocks, CTF events, and cheatsheets",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1206581065,
+            "language": "HTML",
+            "last_commit": "2026-07-18T13:03:00Z",
+            "owner": "momenbasel",
+            "repo": "htb-writeups",
+            "stars": 226
+          }
+        }
+      ],
+      "title": "🎯 Sharpening Your Skills"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "A Course on Intermediate Level Linux Exploitation",
+          "description": "as the title says, this course isn't for beginners",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 78277026,
+            "language": "Python",
+            "last_commit": "2020-08-24T07:48:07Z",
+            "owner": "nnamon",
+            "repo": "linux-exploitation-course",
+            "stars": 1014
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Modern Binary Exploitation - CSCI 4968",
+          "description": "RE challenges, you can download the files or download the VM created by RPISEC specifically for challenges, also links to their home page with tons of infosec lectures",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 37784277,
+            "language": "C",
+            "last_commit": "2021-12-09T17:20:50Z",
+            "owner": "RPISEC",
+            "repo": "MBE",
+            "stars": 6032
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Reverse engineering reading list",
+          "description": "a github collection of RE tools and books",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 42555422,
+            "language": null,
+            "last_commit": "2023-05-02T00:39:08Z",
+            "owner": "onethawt",
+            "repo": "reverseengineering-reading-list",
+            "stars": 2715
+          }
+        }
+      ],
+      "title": "🧬 Reverse Engineering, Buffer Overflow and Exploit Development"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "AutoLocalPrivilegeEscalation",
+          "description": "automated scripts that downloads and compiles from exploitdb",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 54310382,
+            "language": "Python",
+            "last_commit": "2021-09-21T08:26:28Z",
+            "owner": "ngalongc",
+            "repo": "AutoLocalPrivilegeEscalation",
+            "stars": 496
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Linux Privilege Escalation Check Script",
+          "description": "a simple linux PE check script",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 56599386,
+            "language": "Python",
+            "last_commit": "2022-01-31T10:32:08Z",
+            "owner": "sleventyeleven",
+            "repo": "linuxprivchecker",
+            "stars": 1832
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "PEASS-ng (Privilege Escalation Awesome Scripts)",
+          "description": "actively maintained privilege escalation enumeration scripts for Windows, Linux, and macOS",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 165548191,
+            "language": "C#",
+            "last_commit": "2026-08-24T11:24:17Z",
+            "owner": "peass-ng",
+            "repo": "PEASS-ng",
+            "stars": 20366
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "RootHelper",
+          "description": "a tool that runs various enumeration scripts to check for privilege escalation",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 46370298,
+            "language": "Shell",
+            "last_commit": "2021-07-28T07:04:41Z",
+            "owner": "NullArray",
+            "repo": "RootHelper",
+            "stars": 505
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Windows exploits, mostly precompiled.",
+          "description": "precompiled windows exploits, could be useful for reverse engineering too",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 90667664,
+            "language": "Python",
+            "last_commit": "2020-09-07T04:17:23Z",
+            "owner": "abatchy17",
+            "repo": "WindowsExploits",
+            "stars": 1934
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Windows privilege escalation checker",
+          "description": "a list of topics that link to pentestlab.blog, all related to windows privilege escalation",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 68540571,
+            "language": null,
+            "last_commit": "2025-07-27T12:27:33Z",
+            "owner": "netbiosX",
+            "repo": "Checklists",
+            "stars": 2658
+          }
+        }
+      ],
+      "title": "⬆️ Privilege Escalation"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "theHarvester",
+          "description": "E-mail, subdomain, host and people-name harvester using public sources",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1212922,
+            "language": "Python",
+            "last_commit": "2026-08-24T02:20:49Z",
+            "owner": "laramies",
+            "repo": "theHarvester",
+            "stars": 17179
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Recon-ng",
+          "description": "Full-featured web reconnaissance framework written in Python",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 178254323,
+            "language": "Python",
+            "last_commit": "2024-11-01T20:11:51Z",
+            "owner": "lanmaster53",
+            "repo": "recon-ng",
+            "stars": 5866
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SpiderFoot",
+          "description": "Automated OSINT collection with 200+ modules and a web UI",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 4165675,
+            "language": "Python",
+            "last_commit": "2026-04-13T19:43:06Z",
+            "owner": "smicallef",
+            "repo": "spiderfoot",
+            "stars": 21388
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "github-dorks",
+          "description": "CLI tool to scan GitHub repos/orgs for sensitive information leaks",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 44060490,
+            "language": "Python",
+            "last_commit": "2025-10-05T15:51:55Z",
+            "owner": "techgaun",
+            "repo": "github-dorks",
+            "stars": 3268
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "metagoofil",
+          "description": "Extracts metadata from public documents (PDF, DOC, XLS) belonging to a target",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 40654736,
+            "language": "Python",
+            "last_commit": "2024-03-21T03:45:48Z",
+            "owner": "laramies",
+            "repo": "metagoofil",
+            "stars": 1311
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Sherlock",
+          "description": "Hunt usernames across 400+ social networks",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 162998479,
+            "language": "Python",
+            "last_commit": "2026-08-24T05:19:36Z",
+            "owner": "sherlock-project",
+            "repo": "sherlock",
+            "stars": 90151
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Maigret",
+          "description": "Sherlock-style username enumeration across 3000+ sites with profile-data extraction",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 275386910,
+            "language": "Python",
+            "last_commit": "2026-08-24T13:05:03Z",
+            "owner": "soxoj",
+            "repo": "maigret",
+            "stars": 37002
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Holehe",
+          "description": "Check if an email is used on 120+ sites via password-reset flows",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 275031765,
+            "language": "Python",
+            "last_commit": "2024-09-10T20:24:32Z",
+            "owner": "megadose",
+            "repo": "holehe",
+            "stars": 14110
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "GHunt",
+          "description": "OSINT toolkit for investigating Google accounts (Gmail, Drive, Calendar exposure)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 300592907,
+            "language": "Python",
+            "last_commit": "2026-04-10T02:29:16Z",
+            "owner": "mxrch",
+            "repo": "GHunt",
+            "stars": 19407
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Blackbird",
+          "description": "Fast username and email OSINT search across 600+ services",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 489384246,
+            "language": "Python",
+            "last_commit": "2025-07-13T13:48:19Z",
+            "owner": "p1ngul1n0",
+            "repo": "blackbird",
+            "stars": 7830
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "h8mail",
+          "description": "Email OSINT and breach-credential hunting (HIBP, Snusbase, Leak-Lookup integrations)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 137433290,
+            "language": "Python",
+            "last_commit": "2023-08-15T10:50:34Z",
+            "owner": "khast3x",
+            "repo": "h8mail",
+            "stars": 5271
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "PhoneInfoga",
+          "description": "Advanced OSINT framework for scanning international phone numbers",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 154643390,
+            "language": "Go",
+            "last_commit": "2026-01-06T11:08:15Z",
+            "owner": "sundowndev",
+            "repo": "phoneinfoga",
+            "stars": 17620
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Photon",
+          "description": "Fast web crawler that extracts URLs, emails, secrets, and intel for recon",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 127466226,
+            "language": "Python",
+            "last_commit": "2026-08-07T12:50:36Z",
+            "owner": "s0md3v",
+            "repo": "Photon",
+            "stars": 13137
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Amass",
+          "description": "OWASP project for in-depth attack-surface mapping and external asset discovery",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 140457254,
+            "language": "Go",
+            "last_commit": "2026-07-19T05:16:40Z",
+            "owner": "owasp-amass",
+            "repo": "amass",
+            "stars": 15031
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Subfinder",
+          "description": "Fast passive subdomain enumeration using public sources",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 127519518,
+            "language": "Go",
+            "last_commit": "2026-08-22T18:49:23Z",
+            "owner": "projectdiscovery",
+            "repo": "subfinder",
+            "stars": 14289
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "cloud_enum",
+          "description": "Enumerate public resources in AWS, Azure, and GCP for a target keyword",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 189564945,
+            "language": "Python",
+            "last_commit": "2026-07-09T03:20:37Z",
+            "owner": "initstring",
+            "repo": "cloud_enum",
+            "stars": 2132
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "reconFTW",
+          "description": "End-to-end recon automation chaining 50+ tools for subdomains, vulns, and OSINT",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 325671936,
+            "language": "Shell",
+            "last_commit": "2026-08-20T09:01:41Z",
+            "owner": "six2dez",
+            "repo": "reconftw",
+            "stars": 8020
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "IntelOwl",
+          "description": "OSINT solution that aggregates 100+ analyzers (threat intel, malware, observables)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 231109256,
+            "language": "Python",
+            "last_commit": "2026-08-24T06:44:05Z",
+            "owner": "intelowlproject",
+            "repo": "IntelOwl",
+            "stars": 4681
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Carbon14",
+          "description": "OSINT tool for estimating the age of web pages from HTTP metadata",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 121986766,
+            "language": "Python",
+            "last_commit": "2026-05-21T23:41:59Z",
+            "owner": "Lazza",
+            "repo": "Carbon14",
+            "stars": 125
+          }
+        }
+      ],
+      "title": "🕵️ OSINT"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Garak",
+              "description": "Most mature open-source LLM vulnerability scanner. Probes for prompt injection, jailbreaks, data leakage, hallucination, toxicity.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 639097338,
+                "language": "Python",
+                "last_commit": "2026-08-21T14:25:03Z",
+                "owner": "NVIDIA",
+                "repo": "garak",
+                "stars": 9004
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "PyRIT",
+              "description": "Microsoft's Python Risk Identification Tool for generative AI; supports multi-turn attack orchestration.",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 1191146757,
+                "language": null,
+                "last_commit": "2026-03-25T01:18:52Z",
+                "owner": "Azure",
+                "repo": "PyRIT",
+                "stars": 116
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Promptfoo",
+              "description": "LLM red-team + eval framework with 100+ attack types.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 633927609,
+                "language": "TypeScript",
+                "last_commit": "2026-08-24T05:56:25Z",
+                "owner": "promptfoo",
+                "repo": "promptfoo",
+                "stars": 24525
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "DeepTeam",
+              "description": "Red-team framework mapped to OWASP LLM Top 10; 50+ vulnerabilities, 20+ adversarial methods.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 943088234,
+                "language": "Python",
+                "last_commit": "2026-08-21T03:45:15Z",
+                "owner": "confident-ai",
+                "repo": "deepteam",
+                "stars": 2614
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "LLMFuzzer",
+              "description": "Fuzzing framework specifically for LLM integrations.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 643275640,
+                "language": "Python",
+                "last_commit": "2024-02-12T07:22:56Z",
+                "owner": "mnns",
+                "repo": "LLMFuzzer",
+                "stars": 377
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "promptmap",
+              "description": "Prompt-injection vulnerability scanner.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 666826154,
+                "language": "Python",
+                "last_commit": "2025-12-01T11:50:23Z",
+                "owner": "utkusen",
+                "repo": "promptmap",
+                "stars": 1254
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Adversarial Robustness Toolbox (ART)",
+              "description": "Linux Foundation library covering evasion, poisoning, extraction, and inference attacks across all major ML frameworks.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 125381318,
+                "language": "Python",
+                "last_commit": "2025-12-12T07:01:28Z",
+                "owner": "Trusted-AI",
+                "repo": "adversarial-robustness-toolbox",
+                "stars": 6196
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "CleverHans",
+              "description": "Classic library for crafting adversarial examples against image models.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 68254498,
+                "language": "Jupyter Notebook",
+                "last_commit": "2024-04-10T13:26:10Z",
+                "owner": "cleverhans-lab",
+                "repo": "cleverhans",
+                "stars": 6449
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "AI Exploits (Protect AI)",
+              "description": "Collection of real, working exploits for vulnerabilities found in AI/ML tools and platforms.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 709957829,
+                "language": "Python",
+                "last_commit": "2024-10-23T20:40:54Z",
+                "owner": "protectai",
+                "repo": "ai-exploits",
+                "stars": 1746
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Tools (Offensive)"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Indirect Prompt Injection (Greshake et al.)",
+              "description": "Canonical research repo for indirect prompt injection.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 603706708,
+                "language": "Jupyter Notebook",
+                "last_commit": "2025-07-17T14:03:25Z",
+                "owner": "greshake",
+                "repo": "llm-security",
+                "stars": 2131
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Reading & Research"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "corca-ai/awesome-llm-security",
+              "description": "Most-starred LLM security awesome list.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 662394571,
+                "language": null,
+                "last_commit": "2025-08-20T01:27:47Z",
+                "owner": "corca-ai",
+                "repo": "awesome-llm-security",
+                "stars": 1685
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "PromptLabs/Prompt-Hacking-Resources",
+              "description": "Focused specifically on red teaming, jailbreaks, prompt injection.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 963425864,
+                "language": null,
+                "last_commit": "2026-07-30T00:11:38Z",
+                "owner": "PromptLabs",
+                "repo": "Prompt-Hacking-Resources",
+                "stars": 676
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "jiep/offensive-ai-compilation",
+              "description": "Offense-oriented curation: AI-powered attacks, plus attacks against AI.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 594487852,
+                "language": "HTML",
+                "last_commit": "2026-08-01T11:57:14Z",
+                "owner": "jiep",
+                "repo": "offensive-ai-compilation",
+                "stars": 1420
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Awesome Lists"
+        }
+      ],
+      "title": "🤖 AI Security / AI Red Teaming"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Damn Small Vulnerable Web",
+          "description": "written in less than 100 lines of code, this web app has tons of vulns, great for teaching",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 46572746,
+            "language": "Python",
+            "last_commit": "2026-08-19T21:27:32Z",
+            "owner": "stamparm",
+            "repo": "DSVW",
+            "stars": 880
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "OWASP Broken Web Applications Project",
+          "description": "hosts a collection of broken web apps",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 53287354,
+            "language": "PHP",
+            "last_commit": "2024-03-13T21:36:02Z",
+            "owner": "chuckfw",
+            "repo": "owaspbwa",
+            "stars": 312
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "OWASP Hackademic Challenges project",
+          "description": "web hacking challenges",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 5924647,
+            "language": "PHP",
+            "last_commit": "2020-10-30T14:00:21Z",
+            "owner": "Hackademic",
+            "repo": "hackademic",
+            "stars": 325
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "OWASP Juice Shop",
+          "description": "covers the OWASP top 10 vulns",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 24233689,
+            "language": "TypeScript",
+            "last_commit": "2026-08-21T17:13:00Z",
+            "owner": "juice-shop",
+            "repo": "juice-shop",
+            "stars": 13709
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "WebGoat: A deliberately insecure Web Application",
+          "description": "maintained by OWASP and designed to to teach web app security",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 31771754,
+            "language": "JavaScript",
+            "last_commit": "2026-08-24T09:53:59Z",
+            "owner": "WebGoat",
+            "repo": "WebGoat",
+            "stars": 9289
+          }
+        }
+      ],
+      "title": "🌐 Vulnerable Web Application"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Metasploitable3",
+          "description": "[Installation] the third installation of this vulnerable OS",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 66874942,
+            "language": "HTML",
+            "last_commit": "2025-02-13T14:49:38Z",
+            "owner": "rapid7",
+            "repo": "metasploitable3",
+            "stars": 5679
+          }
+        }
+      ],
+      "title": "🖥️ Vulnerable OS"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Docker for pentest",
+          "description": "Image with the more used tools to create a pentest environment easily and quickly.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 242900487,
+            "language": "Dockerfile",
+            "last_commit": "2022-03-11T14:21:51Z",
+            "owner": "aaaguirrep",
+            "repo": "offensive-docker",
+            "stars": 769
+          }
+        }
+      ],
+      "title": "🐧 Linux Penetration Testing OS"
+    }
+  ],
   "metadata": {
-    "last_updated": "2026-08-23T22:34:19.929Z",
+    "last_updated": "2026-08-24T13:51:53.027Z",
     "original_repository": "vitalysim/Awesome-Hacking-Resources",
     "original_repository_id": 106460002,
     "original_repository_sha": "daf4099f9917b6ede8c4f95a757be4b55e52e648",
