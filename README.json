@@ -147,7 +147,7 @@
             "last_commit": "2026-08-24T11:24:17Z",
             "owner": "peass-ng",
             "repo": "PEASS-ng",
-            "stars": 20370
+            "stars": 20372
           }
         },
         {
@@ -210,10 +210,10 @@
             "archived": false,
             "id": 1212922,
             "language": "Python",
-            "last_commit": "2026-08-24T20:14:28Z",
+            "last_commit": "2026-08-25T02:10:17Z",
             "owner": "laramies",
             "repo": "theHarvester",
-            "stars": 17190
+            "stars": 17191
           }
         },
         {
@@ -243,7 +243,7 @@
             "last_commit": "2026-04-13T19:43:06Z",
             "owner": "smicallef",
             "repo": "spiderfoot",
-            "stars": 21397
+            "stars": 21401
           }
         },
         {
@@ -273,7 +273,7 @@
             "last_commit": "2024-03-21T03:45:48Z",
             "owner": "laramies",
             "repo": "metagoofil",
-            "stars": 1311
+            "stars": 1312
           }
         },
         {
@@ -285,10 +285,10 @@
             "archived": false,
             "id": 162998479,
             "language": "Python",
-            "last_commit": "2026-08-24T05:19:36Z",
+            "last_commit": "2026-08-25T05:15:58Z",
             "owner": "sherlock-project",
             "repo": "sherlock",
-            "stars": 90174
+            "stars": 90197
           }
         },
         {
@@ -303,7 +303,7 @@
             "last_commit": "2026-08-24T13:05:03Z",
             "owner": "soxoj",
             "repo": "maigret",
-            "stars": 37011
+            "stars": 37014
           }
         },
         {
@@ -318,7 +318,7 @@
             "last_commit": "2024-09-10T20:24:32Z",
             "owner": "megadose",
             "repo": "holehe",
-            "stars": 14150
+            "stars": 14165
           }
         },
         {
@@ -333,7 +333,7 @@
             "last_commit": "2026-04-10T02:29:16Z",
             "owner": "mxrch",
             "repo": "GHunt",
-            "stars": 19413
+            "stars": 19415
           }
         },
         {
@@ -348,7 +348,7 @@
             "last_commit": "2025-07-13T13:48:19Z",
             "owner": "p1ngul1n0",
             "repo": "blackbird",
-            "stars": 7841
+            "stars": 7842
           }
         },
         {
@@ -423,7 +423,7 @@
             "last_commit": "2026-08-22T18:49:23Z",
             "owner": "projectdiscovery",
             "repo": "subfinder",
-            "stars": 14297
+            "stars": 14298
           }
         },
         {
@@ -506,7 +506,7 @@
                 "last_commit": "2026-08-21T14:25:03Z",
                 "owner": "NVIDIA",
                 "repo": "garak",
-                "stars": 9018
+                "stars": 9023
               }
             },
             {
@@ -533,10 +533,10 @@
                 "archived": false,
                 "id": 633927609,
                 "language": "TypeScript",
-                "last_commit": "2026-08-24T21:54:52Z",
+                "last_commit": "2026-08-25T05:42:03Z",
                 "owner": "promptfoo",
                 "repo": "promptfoo",
-                "stars": 24539
+                "stars": 24545
               }
             },
             {
@@ -551,7 +551,7 @@
                 "last_commit": "2026-08-21T03:45:15Z",
                 "owner": "confident-ai",
                 "repo": "deepteam",
-                "stars": 2615
+                "stars": 2616
               }
             },
             {
@@ -596,7 +596,7 @@
                 "last_commit": "2025-12-12T07:01:28Z",
                 "owner": "Trusted-AI",
                 "repo": "adversarial-robustness-toolbox",
-                "stars": 6199
+                "stars": 6200
               }
             },
             {
@@ -771,7 +771,7 @@
             "last_commit": "2026-08-24T19:36:23Z",
             "owner": "juice-shop",
             "repo": "juice-shop",
-            "stars": 13711
+            "stars": 13715
           }
         },
         {
@@ -836,7 +836,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T22:39:34.650Z",
+    "last_updated": "2026-08-25T05:48:05.762Z",
     "original_repository": "vitalysim/Awesome-Hacking-Resources",
     "original_repository_id": 106460002,
     "original_repository_sha": "daf4099f9917b6ede8c4f95a757be4b55e52e648",
