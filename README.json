@@ -45,7 +45,7 @@
             "last_commit": "2026-07-18T13:03:00Z",
             "owner": "momenbasel",
             "repo": "htb-writeups",
-            "stars": 228
+            "stars": 229
           }
         }
       ],
@@ -132,7 +132,7 @@
             "last_commit": "2022-01-31T10:32:08Z",
             "owner": "sleventyeleven",
             "repo": "linuxprivchecker",
-            "stars": 1833
+            "stars": 1834
           }
         },
         {
@@ -147,7 +147,7 @@
             "last_commit": "2026-08-24T11:24:17Z",
             "owner": "peass-ng",
             "repo": "PEASS-ng",
-            "stars": 20381
+            "stars": 20387
           }
         },
         {
@@ -213,7 +213,7 @@
             "last_commit": "2026-08-27T03:04:56Z",
             "owner": "laramies",
             "repo": "theHarvester",
-            "stars": 17203
+            "stars": 17206
           }
         },
         {
@@ -228,7 +228,7 @@
             "last_commit": "2024-11-01T20:11:51Z",
             "owner": "lanmaster53",
             "repo": "recon-ng",
-            "stars": 5872
+            "stars": 5873
           }
         },
         {
@@ -243,7 +243,7 @@
             "last_commit": "2026-04-13T19:43:06Z",
             "owner": "smicallef",
             "repo": "spiderfoot",
-            "stars": 21444
+            "stars": 21455
           }
         },
         {
@@ -285,10 +285,10 @@
             "archived": false,
             "id": 162998479,
             "language": "Python",
-            "last_commit": "2026-08-26T05:15:36Z",
+            "last_commit": "2026-08-27T07:40:20Z",
             "owner": "sherlock-project",
             "repo": "sherlock",
-            "stars": 90372
+            "stars": 90386
           }
         },
         {
@@ -300,10 +300,10 @@
             "archived": false,
             "id": 275386910,
             "language": "Python",
-            "last_commit": "2026-08-26T17:17:27Z",
+            "last_commit": "2026-08-27T10:09:55Z",
             "owner": "soxoj",
             "repo": "maigret",
-            "stars": 37084
+            "stars": 37089
           }
         },
         {
@@ -318,7 +318,7 @@
             "last_commit": "2024-09-10T20:24:32Z",
             "owner": "megadose",
             "repo": "holehe",
-            "stars": 14286
+            "stars": 14300
           }
         },
         {
@@ -333,7 +333,7 @@
             "last_commit": "2026-04-10T02:29:16Z",
             "owner": "mxrch",
             "repo": "GHunt",
-            "stars": 19425
+            "stars": 19429
           }
         },
         {
@@ -348,7 +348,7 @@
             "last_commit": "2025-07-13T13:48:19Z",
             "owner": "p1ngul1n0",
             "repo": "blackbird",
-            "stars": 7864
+            "stars": 7867
           }
         },
         {
@@ -378,7 +378,7 @@
             "last_commit": "2026-08-25T07:42:10Z",
             "owner": "sundowndev",
             "repo": "phoneinfoga",
-            "stars": 17649
+            "stars": 17651
           }
         },
         {
@@ -393,7 +393,7 @@
             "last_commit": "2026-08-07T12:50:36Z",
             "owner": "s0md3v",
             "repo": "Photon",
-            "stars": 13149
+            "stars": 13150
           }
         },
         {
@@ -408,7 +408,7 @@
             "last_commit": "2026-07-19T05:16:40Z",
             "owner": "owasp-amass",
             "repo": "amass",
-            "stars": 15047
+            "stars": 15049
           }
         },
         {
@@ -423,7 +423,7 @@
             "last_commit": "2026-08-26T14:22:38Z",
             "owner": "projectdiscovery",
             "repo": "subfinder",
-            "stars": 14315
+            "stars": 14316
           }
         },
         {
@@ -468,7 +468,7 @@
             "last_commit": "2026-08-26T09:47:26Z",
             "owner": "intelowlproject",
             "repo": "IntelOwl",
-            "stars": 4683
+            "stars": 4684
           }
         },
         {
@@ -506,7 +506,7 @@
                 "last_commit": "2026-08-25T22:37:37Z",
                 "owner": "NVIDIA",
                 "repo": "garak",
-                "stars": 9034
+                "stars": 9041
               }
             },
             {
@@ -536,7 +536,7 @@
                 "last_commit": "2026-08-27T00:14:28Z",
                 "owner": "promptfoo",
                 "repo": "promptfoo",
-                "stars": 24607
+                "stars": 24616
               }
             },
             {
@@ -566,7 +566,7 @@
                 "last_commit": "2024-02-12T07:22:56Z",
                 "owner": "mnns",
                 "repo": "LLMFuzzer",
-                "stars": 377
+                "stars": 378
               }
             },
             {
@@ -685,7 +685,7 @@
                 "last_commit": "2026-07-30T00:11:38Z",
                 "owner": "PromptLabs",
                 "repo": "Prompt-Hacking-Resources",
-                "stars": 678
+                "stars": 679
               }
             },
             {
@@ -771,7 +771,7 @@
             "last_commit": "2026-08-24T19:36:23Z",
             "owner": "juice-shop",
             "repo": "juice-shop",
-            "stars": 13726
+            "stars": 13727
           }
         },
         {
@@ -807,7 +807,7 @@
             "last_commit": "2025-02-13T14:49:38Z",
             "owner": "rapid7",
             "repo": "metasploitable3",
-            "stars": 5681
+            "stars": 5683
           }
         }
       ],
@@ -836,9 +836,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T03:06:43.944Z",
-    "original_repository": "vitalysim/Awesome-Hacking-Resources",
-    "original_repository_id": 106460002,
+    "last_updated": "2026-08-27T11:21:50.761Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 106460002,
+      "language": null,
+      "last_commit": "2026-05-21T07:37:46Z",
+      "owner": "vitalysim",
+      "repo": "Awesome-Hacking-Resources",
+      "stars": 17359
+    },
     "original_repository_sha": "daf4099f9917b6ede8c4f95a757be4b55e52e648",
     "enhanced_repository": "enhansome/enhansome-Awesome-Hacking-Resources",
     "enhanced_repository_description": null,
