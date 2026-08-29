@@ -415,7 +415,7 @@
             "open_issues": 314,
             "owner": "smicallef",
             "repo": "spiderfoot",
-            "stars": 21494,
+            "stars": 21493,
             "topics": [
               "attacksurface",
               "cti",
@@ -543,7 +543,7 @@
             "open_issues": 25,
             "owner": "soxoj",
             "repo": "maigret",
-            "stars": 37127,
+            "stars": 37126,
             "topics": [
               "cli",
               "cybersecurity",
@@ -585,7 +585,7 @@
             "open_issues": 115,
             "owner": "megadose",
             "repo": "holehe",
-            "stars": 14399,
+            "stars": 14400,
             "topics": [
               "ebay",
               "email",
@@ -647,7 +647,7 @@
             "open_issues": 15,
             "owner": "p1ngul1n0",
             "repo": "blackbird",
-            "stars": 7882,
+            "stars": 7880,
             "topics": [
               "cybersecurity",
               "osint",
@@ -1059,7 +1059,7 @@
                 "open_issues": 61,
                 "owner": "confident-ai",
                 "repo": "deepteam",
-                "stars": 2631,
+                "stars": 2632,
                 "topics": [
                   "llm-guardrails",
                   "llm-red-teaming",
@@ -1287,7 +1287,7 @@
                 "open_issues": 2,
                 "owner": "PromptLabs",
                 "repo": "Prompt-Hacking-Resources",
-                "stars": 681,
+                "stars": 682,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:05:00.221Z"
@@ -1519,7 +1519,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T03:41:41.833Z",
+    "last_updated": "2026-08-29T04:10:56.633Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of hacking / penetration testing resources to make you better!",

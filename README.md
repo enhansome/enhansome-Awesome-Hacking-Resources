@@ -290,16 +290,16 @@ We also maintain a companion [tools](tools.md) list — contributions welcome th
 | [theHarvester](https://github.com/laramies/theHarvester) ⭐ 17,225 \| 🐛 7 \| 🌐 Python \| 📅 2026-08-28   | E-mail, subdomain, host and people-name harvester using public sources                |
 | [Maltego CE](https://www.maltego.com/ce-registration/)                                                    | Graph-based link-analysis platform for OSINT and forensics; Community Edition is free |
 | [Recon-ng](https://github.com/lanmaster53/recon-ng) ⭐ 5,874 \| 🐛 38 \| 🌐 Python \| 📅 2024-11-01        | Full-featured web reconnaissance framework written in Python                          |
-| [SpiderFoot](https://github.com/smicallef/spiderfoot) ⭐ 21,494 \| 🐛 314 \| 🌐 Python \| 📅 2026-04-13    | Automated OSINT collection with 200+ modules and a web UI                             |
+| [SpiderFoot](https://github.com/smicallef/spiderfoot) ⭐ 21,493 \| 🐛 314 \| 🌐 Python \| 📅 2026-04-13    | Automated OSINT collection with 200+ modules and a web UI                             |
 | [Intel Techniques Tools](https://inteltechniques.com/tools/)                                              | Michael Bazzell's hosted search tools for people, social, images, geo                 |
 | [Google Hacking Database](https://www.exploit-db.com/google-hacking-database/)                            | Exploit-DB's curated Google dorks database for recon                                  |
 | [github-dorks](https://github.com/techgaun/github-dorks) ⭐ 3,272 \| 🐛 11 \| 🌐 Python \| 📅 2026-08-29   | CLI tool to scan GitHub repos/orgs for sensitive information leaks                    |
 | [metagoofil](https://github.com/laramies/metagoofil) ⭐ 1,314 \| 🐛 19 \| 🌐 Python \| 📅 2024-03-21       | Extracts metadata from public documents (PDF, DOC, XLS) belonging to a target         |
 | [Sherlock](https://github.com/sherlock-project/sherlock) ⭐ 90,566 \| 🐛 334 \| 🌐 Python \| 📅 2026-08-28 | Hunt usernames across 400+ social networks                                            |
-| [Maigret](https://github.com/soxoj/maigret) ⭐ 37,127 \| 🐛 25 \| 🌐 Python \| 📅 2026-08-28               | Sherlock-style username enumeration across 3000+ sites with profile-data extraction   |
-| [Holehe](https://github.com/megadose/holehe) ⭐ 14,399 \| 🐛 115 \| 🌐 Python \| 📅 2024-09-10             | Check if an email is used on 120+ sites via password-reset flows                      |
+| [Maigret](https://github.com/soxoj/maigret) ⭐ 37,126 \| 🐛 25 \| 🌐 Python \| 📅 2026-08-28               | Sherlock-style username enumeration across 3000+ sites with profile-data extraction   |
+| [Holehe](https://github.com/megadose/holehe) ⭐ 14,400 \| 🐛 115 \| 🌐 Python \| 📅 2024-09-10             | Check if an email is used on 120+ sites via password-reset flows                      |
 | [GHunt](https://github.com/mxrch/GHunt) ⭐ 19,448 \| 🐛 75 \| 🌐 Python \| 📅 2026-04-10                   | OSINT toolkit for investigating Google accounts (Gmail, Drive, Calendar exposure)     |
-| [Blackbird](https://github.com/p1ngul1n0/blackbird) ⭐ 7,882 \| 🐛 15 \| 🌐 Python \| 📅 2025-07-13        | Fast username and email OSINT search across 600+ services                             |
+| [Blackbird](https://github.com/p1ngul1n0/blackbird) ⭐ 7,880 \| 🐛 15 \| 🌐 Python \| 📅 2025-07-13        | Fast username and email OSINT search across 600+ services                             |
 | [h8mail](https://github.com/khast3x/h8mail) ⭐ 5,273 \| 🐛 39 \| 🌐 Python \| 📅 2023-08-15                | Email OSINT and breach-credential hunting (HIBP, Snusbase, Leak-Lookup integrations)  |
 | [PhoneInfoga](https://github.com/sundowndev/phoneinfoga) ⭐ 17,677 \| 🐛 127 \| 🌐 Go \| 📅 2026-08-25     | Advanced OSINT framework for scanning international phone numbers                     |
 | [Photon](https://github.com/s0md3v/Photon) ⭐ 13,155 \| 🐛 59 \| 🌐 Python \| 📅 2026-08-07                | Fast web crawler that extracts URLs, emails, secrets, and intel for recon             |
@@ -348,7 +348,7 @@ We also maintain a companion [tools](tools.md) list — contributions welcome th
 | [Garak](https://github.com/leondz/garak) ⭐ 9,066 \| 🐛 408 \| 🌐 Python \| 📅 2026-08-25                                                            | Most mature open-source LLM vulnerability scanner. Probes for prompt injection, jailbreaks, data leakage, hallucination, toxicity. |
 | [PyRIT](https://github.com/Azure/PyRIT) ⚠️ Archived                                                                                                 | Microsoft's Python Risk Identification Tool for generative AI; supports multi-turn attack orchestration.                           |
 | [Promptfoo](https://github.com/promptfoo/promptfoo) ⭐ 24,651 \| 🐛 540 \| 🌐 TypeScript \| 📅 2026-08-29                                            | LLM red-team + eval framework with 100+ attack types.                                                                              |
-| [DeepTeam](https://github.com/confident-ai/deepteam) ⭐ 2,631 \| 🐛 61 \| 🌐 Python \| 📅 2026-08-21                                                 | Red-team framework mapped to OWASP LLM Top 10; 50+ vulnerabilities, 20+ adversarial methods.                                       |
+| [DeepTeam](https://github.com/confident-ai/deepteam) ⭐ 2,632 \| 🐛 61 \| 🌐 Python \| 📅 2026-08-21                                                 | Red-team framework mapped to OWASP LLM Top 10; 50+ vulnerabilities, 20+ adversarial methods.                                       |
 | [LLMFuzzer](https://github.com/mnns/LLMFuzzer) ⭐ 379 \| 🐛 3 \| 🌐 Python \| 📅 2024-02-12                                                          | Fuzzing framework specifically for LLM integrations.                                                                               |
 | [promptmap](https://github.com/utkusen/promptmap) ⭐ 1,254 \| 🐛 4 \| 🌐 Python \| 📅 2025-12-01                                                     | Prompt-injection vulnerability scanner.                                                                                            |
 | [Adversarial Robustness Toolbox (ART)](https://github.com/Trusted-AI/adversarial-robustness-toolbox) ⭐ 6,209 \| 🐛 20 \| 🌐 Python \| 📅 2025-12-12 | Linux Foundation library covering evasion, poisoning, extraction, and inference attacks across all major ML frameworks.            |
@@ -380,7 +380,7 @@ We also maintain a companion [tools](tools.md) list — contributions welcome th
 | Name                                                                                                                          | Description                                                             |
 | ----------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------- |
 | [corca-ai/awesome-llm-security](https://github.com/corca-ai/awesome-llm-security) ⭐ 1,687 \| 🐛 196 \| 📅 2025-08-20          | Most-starred LLM security awesome list.                                 |
-| [PromptLabs/Prompt-Hacking-Resources](https://github.com/PromptLabs/Prompt-Hacking-Resources) ⭐ 681 \| 🐛 2 \| 📅 2026-07-30  | Focused specifically on red teaming, jailbreaks, prompt injection.      |
+| [PromptLabs/Prompt-Hacking-Resources](https://github.com/PromptLabs/Prompt-Hacking-Resources) ⭐ 682 \| 🐛 2 \| 📅 2026-07-30  | Focused specifically on red teaming, jailbreaks, prompt injection.      |
 | [jiep/offensive-ai-compilation](https://github.com/jiep/offensive-ai-compilation) ⭐ 1,418 \| 🐛 6 \| 🌐 HTML \| 📅 2026-08-01 | Offense-oriented curation: AI-powered attacks, plus attacks against AI. |
 
 <p align="right">(<a href="#table-of-contents">back to top</a>)</p>
