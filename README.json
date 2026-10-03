@@ -19,7 +19,7 @@
             "open_issues": 1,
             "owner": "google",
             "repo": "google-ctf",
-            "stars": 5032,
+            "stars": 5033,
             "topics": [
               "ctf",
               "ctf-challenges",
@@ -362,7 +362,7 @@
             "open_issues": 7,
             "owner": "laramies",
             "repo": "theHarvester",
-            "stars": 17760,
+            "stars": 17766,
             "topics": [
               "blueteam",
               "discovery",
@@ -415,7 +415,7 @@
             "open_issues": 323,
             "owner": "smicallef",
             "repo": "spiderfoot",
-            "stars": 22732,
+            "stars": 22735,
             "topics": [
               "attacksurface",
               "cti",
@@ -505,7 +505,7 @@
             "open_issues": 354,
             "owner": "sherlock-project",
             "repo": "sherlock",
-            "stars": 93155,
+            "stars": 93160,
             "topics": [
               "cli",
               "cti",
@@ -543,7 +543,7 @@
             "open_issues": 80,
             "owner": "soxoj",
             "repo": "maigret",
-            "stars": 38207,
+            "stars": 38211,
             "topics": [
               "cli",
               "cybersecurity",
@@ -585,7 +585,7 @@
             "open_issues": 118,
             "owner": "megadose",
             "repo": "holehe",
-            "stars": 15067,
+            "stars": 15068,
             "topics": [
               "ebay",
               "email",
@@ -647,7 +647,7 @@
             "open_issues": 16,
             "owner": "antoniaci",
             "repo": "blackbird",
-            "stars": 8815,
+            "stars": 8816,
             "topics": [
               "cybersecurity",
               "osint",
@@ -673,7 +673,7 @@
             "open_issues": 39,
             "owner": "khast3x",
             "repo": "h8mail",
-            "stars": 5324,
+            "stars": 5325,
             "topics": [
               "breach",
               "breach-compilation",
@@ -704,10 +704,10 @@
             "language": "Go",
             "license": "GPL-3.0",
             "last_commit": "2026-08-25T07:42:10Z",
-            "open_issues": 155,
+            "open_issues": 156,
             "owner": "sundowndev",
             "repo": "phoneinfoga",
-            "stars": 18019,
+            "stars": 18020,
             "topics": [
               "agregation",
               "footprint",
@@ -966,7 +966,7 @@
                 "open_issues": 484,
                 "owner": "NVIDIA",
                 "repo": "garak",
-                "stars": 9410,
+                "stars": 9411,
                 "topics": [
                   "ai",
                   "llm-evaluation",
@@ -1015,11 +1015,11 @@
                 "id": 633927609,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-10-03T01:00:01Z",
+                "last_commit": "2026-10-03T02:47:54Z",
                 "open_issues": 693,
                 "owner": "promptfoo",
                 "repo": "promptfoo",
-                "stars": 25656,
+                "stars": 25658,
                 "topics": [
                   "ci",
                   "ci-cd",
@@ -1409,7 +1409,7 @@
             "open_issues": 5,
             "owner": "juice-shop",
             "repo": "juice-shop",
-            "stars": 14006,
+            "stars": 14008,
             "topics": [
               "24pullrequests",
               "application-security",
@@ -1445,7 +1445,7 @@
             "open_issues": 45,
             "owner": "WebGoat",
             "repo": "WebGoat",
-            "stars": 9387,
+            "stars": 9389,
             "topics": []
           },
           "first_seen": "2026-08-28T06:05:00.221Z"
@@ -1519,7 +1519,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T01:07:39.685Z",
+    "last_updated": "2026-10-03T04:29:44.193Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of hacking / penetration testing resources to make you better!",
