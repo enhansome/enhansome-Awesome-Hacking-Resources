@@ -264,13 +264,13 @@ We also maintain a companion [tools](tools.md) list — contributions welcome th
 | [Windows Local Privilege Escalation (HackTricks)](https://book.hacktricks.wiki/en/windows-hardening/windows-local-privilege-escalation/index.html)                                | Comprehensive, up-to-date checklist of Windows privilege escalation vectors                                 |
 | [Editing /etc/passwd File for Privilege Escalation](http://www.hackingarticles.in/editing-etc-passwd-file-for-privilege-escalation/)                                              | Editing /etc/passwd File for Privilege Escalation                                                           |
 | [Linux Privilege Escalation ](https://securityweekly.com/2017/12/17/linux-privilege-escalation-tradecraft-security-weekly-22/)                                                    | Linux Privilege Escalation – Tradecraft Security Weekly (Video)                                             |
-| [Linux Privilege Escalation Check Script](https://github.com/sleventyeleven/linuxprivchecker) ⭐ 1,870 \| 🐛 0 \| 🌐 Python \| 📅 2022-01-31                                       | a simple linux PE check script                                                                              |
+| [Linux Privilege Escalation Check Script](https://github.com/sleventyeleven/linuxprivchecker) ⭐ 1,872 \| 🐛 0 \| 🌐 Python \| 📅 2022-01-31                                       | a simple linux PE check script                                                                              |
 | [Linux Privilege Escalation Scripts](http://netsec.ws/?p=309#more-309)                                                                                                            | a list of PE checking scripts, some may have already been covered                                           |
 | [Linux Privilege Escalation Using PATH Variable](http://www.hackingarticles.in/linux-privilege-escalation-using-path-variable/)                                                   | Linux Privilege Escalation Using PATH Variable                                                              |
 | [Linux Privilege Escalation using Misconfigured NFS](http://www.hackingarticles.in/linux-privilege-escalation-using-misconfigured-nfs/)                                           | Linux Privilege Escalation using Misconfigured NFS                                                          |
 | [Linux Privilege Escalation via Dynamically Linked Shared Object Library](https://www.contextis.com/blog/linux-privilege-escalation-via-dynamically-linked-shared-object-library) | How RPATH and Weak File Permissions can lead to a system compromise.                                        |
 | [Local Linux Enumeration & Privilege Escalation Cheatsheet](https://www.rebootuser.com/?p=1623)                                                                                   | good resources that could be compiled into a script                                                         |
-| [PEASS-ng (Privilege Escalation Awesome Scripts)](https://github.com/carlospolop/PEASS-ng) ⭐ 20,899 \| 🐛 2 \| 🌐 C# \| 📅 2026-11-23                                             | actively maintained privilege escalation enumeration scripts for Windows, Linux, and macOS                  |
+| [PEASS-ng (Privilege Escalation Awesome Scripts)](https://github.com/carlospolop/PEASS-ng) ⭐ 20,902 \| 🐛 2 \| 🌐 C# \| 📅 2026-11-26                                             | actively maintained privilege escalation enumeration scripts for Windows, Linux, and macOS                  |
 | [Linux Privilege Escalation (HackTricks)](https://book.hacktricks.wiki/en/linux-hardening/privilege-escalation/index.html)                                                        | extensive, maintained reference covering common Linux privilege escalation methods with examples            |
 | [RootHelper](https://github.com/NullArray/RootHelper) ⭐ 506 \| 🐛 3 \| 🌐 Shell \| 📅 2021-07-28                                                                                  | a tool that runs various enumeration scripts to check for privilege escalation                              |
 | [Unix privesc checker](http://pentestmonkey.net/tools/audit/unix-privesc-check)                                                                                                   | a script that checks for PE vulnerabilities on a system                                                     |
@@ -287,27 +287,27 @@ We also maintain a companion [tools](tools.md) list — contributions welcome th
 
 | Name                                                                                                       | Description                                                                           |
 | ---------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------- |
-| [theHarvester](https://github.com/laramies/theHarvester) ⭐ 18,420 \| 🐛 14 \| 🌐 Python \| 📅 2026-11-24   | E-mail, subdomain, host and people-name harvester using public sources                |
+| [theHarvester](https://github.com/laramies/theHarvester) ⭐ 18,433 \| 🐛 14 \| 🌐 Python \| 📅 2026-11-24   | E-mail, subdomain, host and people-name harvester using public sources                |
 | [Maltego CE](https://www.maltego.com/ce-registration/)                                                     | Graph-based link-analysis platform for OSINT and forensics; Community Edition is free |
-| [Recon-ng](https://github.com/lanmaster53/recon-ng) ⭐ 6,071 \| 🐛 40 \| 🌐 Python \| 📅 2026-10-05         | Full-featured web reconnaissance framework written in Python                          |
-| [SpiderFoot](https://github.com/smicallef/spiderfoot) ⭐ 24,984 \| 🐛 422 \| 🌐 Python \| 📅 2026-04-13     | Automated OSINT collection with 200+ modules and a web UI                             |
+| [Recon-ng](https://github.com/lanmaster53/recon-ng) ⭐ 6,072 \| 🐛 40 \| 🌐 Python \| 📅 2026-10-05         | Full-featured web reconnaissance framework written in Python                          |
+| [SpiderFoot](https://github.com/smicallef/spiderfoot) ⭐ 25,008 \| 🐛 423 \| 🌐 Python \| 📅 2026-04-13     | Automated OSINT collection with 200+ modules and a web UI                             |
 | [Intel Techniques Tools](https://inteltechniques.com/tools/)                                               | Michael Bazzell's hosted search tools for people, social, images, geo                 |
 | [Google Hacking Database](https://www.exploit-db.com/google-hacking-database/)                             | Exploit-DB's curated Google dorks database for recon                                  |
 | [github-dorks](https://github.com/techgaun/github-dorks) ⭐ 3,311 \| 🐛 10 \| 🌐 Python \| 📅 2026-09-15    | CLI tool to scan GitHub repos/orgs for sensitive information leaks                    |
-| [metagoofil](https://github.com/laramies/metagoofil) ⭐ 1,371 \| 🐛 21 \| 🌐 Python \| 📅 2024-03-21        | Extracts metadata from public documents (PDF, DOC, XLS) belonging to a target         |
-| [Sherlock](https://github.com/sherlock-project/sherlock) ⭐ 117,652 \| 🐛 422 \| 🌐 Python \| 📅 2026-11-25 | Hunt usernames across 400+ social networks                                            |
-| [Maigret](https://github.com/soxoj/maigret) ⭐ 41,287 \| 🐛 39 \| 🌐 Python \| 📅 2026-11-26                | Sherlock-style username enumeration across 3000+ sites with profile-data extraction   |
-| [Holehe](https://github.com/megadose/holehe) ⭐ 15,768 \| 🐛 122 \| 🌐 Python \| 📅 2024-09-10              | Check if an email is used on 120+ sites via password-reset flows                      |
-| [GHunt](https://github.com/mxrch/GHunt) ⭐ 19,907 \| 🐛 79 \| 🌐 Python \| 📅 2026-04-10                    | OSINT toolkit for investigating Google accounts (Gmail, Drive, Calendar exposure)     |
-| [Blackbird](https://github.com/p1ngul1n0/blackbird) ⭐ 10,281 \| 🐛 16 \| 🌐 Python \| 📅 2026-11-03        | Fast username and email OSINT search across 600+ services                             |
+| [metagoofil](https://github.com/laramies/metagoofil) ⭐ 1,372 \| 🐛 21 \| 🌐 Python \| 📅 2024-03-21        | Extracts metadata from public documents (PDF, DOC, XLS) belonging to a target         |
+| [Sherlock](https://github.com/sherlock-project/sherlock) ⭐ 118,187 \| 🐛 423 \| 🌐 Python \| 📅 2026-11-26 | Hunt usernames across 400+ social networks                                            |
+| [Maigret](https://github.com/soxoj/maigret) ⭐ 41,322 \| 🐛 41 \| 🌐 Python \| 📅 2026-11-26                | Sherlock-style username enumeration across 3000+ sites with profile-data extraction   |
+| [Holehe](https://github.com/megadose/holehe) ⭐ 15,774 \| 🐛 122 \| 🌐 Python \| 📅 2024-09-10              | Check if an email is used on 120+ sites via password-reset flows                      |
+| [GHunt](https://github.com/mxrch/GHunt) ⭐ 19,911 \| 🐛 79 \| 🌐 Python \| 📅 2026-04-10                    | OSINT toolkit for investigating Google accounts (Gmail, Drive, Calendar exposure)     |
+| [Blackbird](https://github.com/p1ngul1n0/blackbird) ⭐ 10,290 \| 🐛 16 \| 🌐 Python \| 📅 2026-11-03        | Fast username and email OSINT search across 600+ services                             |
 | [h8mail](https://github.com/khast3x/h8mail) ⭐ 5,396 \| 🐛 40 \| 🌐 Python \| 📅 2023-08-15                 | Email OSINT and breach-credential hunting (HIBP, Snusbase, Leak-Lookup integrations)  |
-| [PhoneInfoga](https://github.com/sundowndev/phoneinfoga) ⭐ 18,683 \| 🐛 173 \| 🌐 Go \| 📅 2026-08-25      | Advanced OSINT framework for scanning international phone numbers                     |
-| [Photon](https://github.com/s0md3v/Photon) ⭐ 13,419 \| 🐛 62 \| 🌐 Python \| 📅 2026-10-17                 | Fast web crawler that extracts URLs, emails, secrets, and intel for recon             |
-| [Amass](https://github.com/owasp-amass/amass) ⭐ 15,564 \| 🐛 255 \| 🌐 Go \| 📅 2026-11-26                 | OWASP project for in-depth attack-surface mapping and external asset discovery        |
-| [Subfinder](https://github.com/projectdiscovery/subfinder) ⭐ 14,876 \| 🐛 19 \| 🌐 Go \| 📅 2026-11-25     | Fast passive subdomain enumeration using public sources                               |
-| [cloud\_enum](https://github.com/initstring/cloud_enum) ⭐ 2,169 \| 🐛 0 \| 🌐 Python \| 📅 2026-10-04      | Enumerate public resources in AWS, Azure, and GCP for a target keyword                |
-| [reconFTW](https://github.com/six2dez/reconftw) ⭐ 8,414 \| 🐛 5 \| 🌐 Shell \| 📅 2026-11-02               | End-to-end recon automation chaining 50+ tools for subdomains, vulns, and OSINT       |
-| [IntelOwl](https://github.com/intelowlproject/IntelOwl) ⭐ 4,834 \| 🐛 90 \| 🌐 Python \| 📅 2026-11-24     | OSINT solution that aggregates 100+ analyzers (threat intel, malware, observables)    |
+| [PhoneInfoga](https://github.com/sundowndev/phoneinfoga) ⭐ 18,697 \| 🐛 173 \| 🌐 Go \| 📅 2026-08-25      | Advanced OSINT framework for scanning international phone numbers                     |
+| [Photon](https://github.com/s0md3v/Photon) ⭐ 13,426 \| 🐛 62 \| 🌐 Python \| 📅 2026-10-17                 | Fast web crawler that extracts URLs, emails, secrets, and intel for recon             |
+| [Amass](https://github.com/owasp-amass/amass) ⭐ 15,567 \| 🐛 255 \| 🌐 Go \| 📅 2026-11-27                 | OWASP project for in-depth attack-surface mapping and external asset discovery        |
+| [Subfinder](https://github.com/projectdiscovery/subfinder) ⭐ 14,884 \| 🐛 1 \| 🌐 Go \| 📅 2026-11-26      | Fast passive subdomain enumeration using public sources                               |
+| [cloud\_enum](https://github.com/initstring/cloud_enum) ⭐ 2,171 \| 🐛 0 \| 🌐 Python \| 📅 2026-10-04      | Enumerate public resources in AWS, Azure, and GCP for a target keyword                |
+| [reconFTW](https://github.com/six2dez/reconftw) ⭐ 8,418 \| 🐛 5 \| 🌐 Shell \| 📅 2026-11-02               | End-to-end recon automation chaining 50+ tools for subdomains, vulns, and OSINT       |
+| [IntelOwl](https://github.com/intelowlproject/IntelOwl) ⭐ 4,835 \| 🐛 89 \| 🌐 Python \| 📅 2026-11-24     | OSINT solution that aggregates 100+ analyzers (threat intel, malware, observables)    |
 | [OSINT Framework](https://osintframework.com/)                                                             | Web-based directory of OSINT resources organised by data type                         |
 | [Bellingcat Online Investigation Toolkit](https://www.bellingcat.com/resources/)                           | Bellingcat's curated, regularly updated toolkit and how-to guides                     |
 | [Have I Been Pwned](https://haveibeenpwned.com/)                                                           | Check whether emails/usernames appear in known data breaches                          |
@@ -321,7 +321,7 @@ We also maintain a companion [tools](tools.md) list — contributions welcome th
 | Name                                                                                                                     | Description                                             |
 | ------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------- |
 | [Malware traffic analysis](http://www.malware-traffic-analysis.net/)                                                     | list of traffic analysis exercises                      |
-| [Malware Analysis - CSCI 4976](https://github.com/RPISEC/Malware/blob/master/README.md) ⭐ 4,587 \| 🐛 1 \| 📅 2022-08-26 | another class from the folks at RPISEC, quality content |
+| [Malware Analysis - CSCI 4976](https://github.com/RPISEC/Malware/blob/master/README.md) ⭐ 4,589 \| 🐛 1 \| 📅 2022-08-26 | another class from the folks at RPISEC, quality content |
 
 <p align="right">(<a href="#table-of-contents">back to top</a>)</p>
 
@@ -345,14 +345,14 @@ We also maintain a companion [tools](tools.md) list — contributions welcome th
 
 | Name                                                                                                                                                | Description                                                                                                                        |
 | --------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------- |
-| [Garak](https://github.com/leondz/garak) ⭐ 10,187 \| 🐛 617 \| 🌐 Python \| 📅 2026-11-25                                                           | Most mature open-source LLM vulnerability scanner. Probes for prompt injection, jailbreaks, data leakage, hallucination, toxicity. |
+| [Garak](https://github.com/leondz/garak) ⭐ 10,200 \| 🐛 618 \| 🌐 Python \| 📅 2026-11-25                                                           | Most mature open-source LLM vulnerability scanner. Probes for prompt injection, jailbreaks, data leakage, hallucination, toxicity. |
 | [PyRIT](https://github.com/Azure/PyRIT) ⚠️ Archived                                                                                                 | Microsoft's Python Risk Identification Tool for generative AI; supports multi-turn attack orchestration.                           |
-| [Promptfoo](https://github.com/promptfoo/promptfoo) ⭐ 27,691 \| 🐛 1,056 \| 🌐 TypeScript \| 📅 2026-11-25                                          | LLM red-team + eval framework with 100+ attack types.                                                                              |
-| [DeepTeam](https://github.com/confident-ai/deepteam) ⭐ 3,126 \| 🐛 76 \| 🌐 Python \| 📅 2026-11-25                                                 | Red-team framework mapped to OWASP LLM Top 10; 50+ vulnerabilities, 20+ adversarial methods.                                       |
+| [Promptfoo](https://github.com/promptfoo/promptfoo) ⭐ 27,728 \| 🐛 1,065 \| 🌐 TypeScript \| 📅 2026-11-27                                          | LLM red-team + eval framework with 100+ attack types.                                                                              |
+| [DeepTeam](https://github.com/confident-ai/deepteam) ⭐ 3,127 \| 🐛 76 \| 🌐 Python \| 📅 2026-11-25                                                 | Red-team framework mapped to OWASP LLM Top 10; 50+ vulnerabilities, 20+ adversarial methods.                                       |
 | [LLMFuzzer](https://github.com/mnns/LLMFuzzer) ⭐ 388 \| 🐛 3 \| 🌐 Python \| 📅 2024-02-12                                                          | Fuzzing framework specifically for LLM integrations.                                                                               |
-| [promptmap](https://github.com/utkusen/promptmap) ⭐ 1,298 \| 🐛 6 \| 🌐 Python \| 📅 2025-12-01                                                     | Prompt-injection vulnerability scanner.                                                                                            |
-| [Adversarial Robustness Toolbox (ART)](https://github.com/Trusted-AI/adversarial-robustness-toolbox) ⭐ 6,330 \| 🐛 25 \| 🌐 Python \| 📅 2026-11-25 | Linux Foundation library covering evasion, poisoning, extraction, and inference attacks across all major ML frameworks.            |
-| [CleverHans](https://github.com/cleverhans-lab/cleverhans) ⭐ 6,457 \| 🐛 46 \| 🌐 Jupyter Notebook \| 📅 2024-04-10                                 | Classic library for crafting adversarial examples against image models.                                                            |
+| [promptmap](https://github.com/utkusen/promptmap) ⭐ 1,299 \| 🐛 6 \| 🌐 Python \| 📅 2025-12-01                                                     | Prompt-injection vulnerability scanner.                                                                                            |
+| [Adversarial Robustness Toolbox (ART)](https://github.com/Trusted-AI/adversarial-robustness-toolbox) ⭐ 6,330 \| 🐛 25 \| 🌐 Python \| 📅 2026-11-26 | Linux Foundation library covering evasion, poisoning, extraction, and inference attacks across all major ML frameworks.            |
+| [CleverHans](https://github.com/cleverhans-lab/cleverhans) ⭐ 6,458 \| 🐛 46 \| 🌐 Jupyter Notebook \| 📅 2024-04-10                                 | Classic library for crafting adversarial examples against image models.                                                            |
 | [AI Exploits (Protect AI)](https://github.com/protectai/ai-exploits) ⭐ 1,760 \| 🐛 3 \| 🌐 Python \| 📅 2024-10-23                                  | Collection of real, working exploits for vulnerabilities found in AI/ML tools and platforms.                                       |
 
 #### Sharpening Your Skills
@@ -379,8 +379,8 @@ We also maintain a companion [tools](tools.md) list — contributions welcome th
 
 | Name                                                                                                                          | Description                                                             |
 | ----------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------- |
-| [corca-ai/awesome-llm-security](https://github.com/corca-ai/awesome-llm-security) ⭐ 1,725 \| 🐛 317 \| 📅 2025-08-20          | Most-starred LLM security awesome list.                                 |
-| [PromptLabs/Prompt-Hacking-Resources](https://github.com/PromptLabs/Prompt-Hacking-Resources) ⭐ 758 \| 🐛 7 \| 📅 2026-10-29  | Focused specifically on red teaming, jailbreaks, prompt injection.      |
+| [corca-ai/awesome-llm-security](https://github.com/corca-ai/awesome-llm-security) ⭐ 1,725 \| 🐛 318 \| 📅 2025-08-20          | Most-starred LLM security awesome list.                                 |
+| [PromptLabs/Prompt-Hacking-Resources](https://github.com/PromptLabs/Prompt-Hacking-Resources) ⭐ 759 \| 🐛 7 \| 📅 2026-10-29  | Focused specifically on red teaming, jailbreaks, prompt injection.      |
 | [jiep/offensive-ai-compilation](https://github.com/jiep/offensive-ai-compilation) ⭐ 1,451 \| 🐛 7 \| 🌐 HTML \| 📅 2026-11-01 | Offense-oriented curation: AI-powered attacks, plus attacks against AI. |
 
 <p align="right">(<a href="#table-of-contents">back to top</a>)</p>
@@ -405,8 +405,8 @@ We also maintain a companion [tools](tools.md) list — contributions welcome th
 | [OWASP Broken Web Applications Project](https://github.com/chuckfw/owaspbwa/) ⭐ 313 \| 🐛 25 \| 🌐 PHP \| 📅 2024-03-13                   | hosts a collection of broken web apps                                                      |
 | [OWASP Hackademic Challenges project](https://github.com/Hackademic/hackademic/) ⚠️ Archived                                              | web hacking challenges                                                                     |
 | [OWASP Mutillidae II](https://sourceforge.net/projects/mutillidae/files/)                                                                 | another OWASP vulnerable app, lots of documentation.                                       |
-| [OWASP Juice Shop](https://github.com/juice-shop/juice-shop) ⭐ 14,549 \| 🐛 5 \| 🌐 TypeScript \| 📅 2026-11-22                           | covers the OWASP top 10 vulns                                                              |
-| [WebGoat: A deliberately insecure Web Application](https://github.com/WebGoat/WebGoat) ⭐ 9,503 \| 🐛 43 \| 🌐 JavaScript \| 📅 2026-11-16 | maintained by OWASP and designed to to teach web app security                              |
+| [OWASP Juice Shop](https://github.com/juice-shop/juice-shop) ⭐ 14,564 \| 🐛 5 \| 🌐 TypeScript \| 📅 2026-11-22                           | covers the OWASP top 10 vulns                                                              |
+| [WebGoat: A deliberately insecure Web Application](https://github.com/WebGoat/WebGoat) ⭐ 9,504 \| 🐛 43 \| 🌐 JavaScript \| 📅 2026-11-16 | maintained by OWASP and designed to to teach web app security                              |
 
 <p align="right">(<a href="#table-of-contents">back to top</a>)</p>
 
@@ -416,7 +416,7 @@ We also maintain a companion [tools](tools.md) list — contributions welcome th
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------ |
 | [General Test Environment Guidance](https://community.rapid7.com/docs/DOC-2196)                                                                                                                                                           | white paper from the pros at rapid7                          |
 | [Metasploitable2 (Linux)](https://sourceforge.net/projects/metasploitable/files/Metasploitable2/)                                                                                                                                         | vulnerable OS, great for practicing hacking                  |
-| [Metasploitable3](https://github.com/rapid7/metasploitable3) ⭐ 5,805 \| 🐛 74 \| 🌐 HTML \| 📅 2025-02-13 \[[Installation](https://github.com/rapid7/metasploitable3/blob/master/README.md) ⭐ 5,805 \| 🐛 74 \| 🌐 HTML \| 📅 2025-02-13] | the third installation of this vulnerable OS                 |
+| [Metasploitable3](https://github.com/rapid7/metasploitable3) ⭐ 5,805 \| 🐛 75 \| 🌐 HTML \| 📅 2025-02-13 \[[Installation](https://github.com/rapid7/metasploitable3/blob/master/README.md) ⭐ 5,805 \| 🐛 75 \| 🌐 HTML \| 📅 2025-02-13] | the third installation of this vulnerable OS                 |
 | [Vulnhub](https://www.vulnhub.com/)                                                                                                                                                                                                       | collection of tons of different vulnerable OS and challenges |
 
 <p align="right">(<a href="#table-of-contents">back to top</a>)</p>
@@ -512,4 +512,4 @@ Released under [GPL-3.0](LICENSE).
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-26._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-27._
